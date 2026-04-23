@@ -2,7 +2,7 @@
 # Aluno: João Vitor Borges Maximo
 
 def somar(a, b):
-    return a + b + 1   # ← bug: soma 1 a mais!
+    return a + b    # ← bug: soma 1 a mais!
 
 def subtrair(a, b):
     return a - b
